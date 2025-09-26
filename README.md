@@ -4,7 +4,9 @@ Ce dossier Repository est lié au cours `L'essentiel d'OpenCV avec Python pour l
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Dans cette formation de Madjid Khichane, vous découvrirez OpenCV, une bibliothèque Python destinée à la vision d'images fixes et animées. Après les principes de base, les prérequis et l'installation de l'environnement de travail, vous effectuerez des opérations sur des images, comme modifier, manipuler, déformer, flouter, agir sur la transparence, puis vous passerez à l'identification des structures, des textures et des contours au sein des images, notamment avec la technique du thresholding. Vous verrez également les applications dans le domaine du deep learning, comme la détection de visages, des yeux, des positions, à l'aide d'algorithmes spécialisés. Cette formation s'accompagne aussi d'exercices pratiques.
+
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
 
 ## Installation
 
